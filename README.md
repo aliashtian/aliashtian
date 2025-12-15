@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm aliashtian </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://[your-portfolio-link]">
+  <a href="https://https://github.com/aliashtian">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
@@ -20,78 +20,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
     </h2>
 </summary>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/aliashtian/aliashtian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/aliashtian/aliashtian/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
-</details>
-
-<details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
-</details>
-
-<details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details>
-
-
-
-<details>
-  <summary><h4> <img align="center" src="https://github.com/aliashtian/aliashtian/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  #### <a href="https://github.com/aliashtian/aliashtian">aliashtian</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
 </details>
 
 
-
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/aliashtian/aliashtian/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
   </div>
-</details>
-
-
-
- ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/aliashtian?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aliashtian)
-
-  </div>
-
-
-  ### <img align="center" src="https://github.com/aliashtian/aliashtian/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
 
 <picture>
   <source
